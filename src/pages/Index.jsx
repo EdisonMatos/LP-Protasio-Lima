@@ -33,7 +33,7 @@ export default function Index() {
       />
       <About modal={true} />
       <AboutInstagram
-        socialPrint={true}
+        socialPrint={false}
         instagram={true}
         facebook={false}
         linkedin={false}

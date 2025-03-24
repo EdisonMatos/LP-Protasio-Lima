@@ -37,12 +37,13 @@ export default function AboutInstagram({
           </MotionDivDownToUp>
         ) : (
           <MotionDivDownToUp className=" w-[100%] desktop1:w-[415px] desktop2:w-[485px] flex justify-center">
-            <div
+            {/* <div
               style={{
                 backgroundImage: `url(${content.texts.about.aboutSocial.img.img})`,
               }}
               className="relative bg-center bg-no-repeat bg-cover h-[450px] w-full tablet1:h-[800px] desktop1:h-[467px] rounded-xl shadow-custom-opacity shadow-secondary/25"
-            ></div>
+            ></div> */}
+            <img className="rounded-xl shadow-custom-opacity shadow-black/40" src={content.texts.about.aboutSocial.img.img} alt="Foto do advogado" />
           </MotionDivDownToUp>
         )}
         <div className="desktop1:w-[550px] desktop2:w-[570px]">
