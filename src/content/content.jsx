@@ -99,8 +99,8 @@ const content = {
       miniTag: "ADVOGADO EM SALVADOR - BA",
       title: (
         <h1 className="mb-[16px]">
-          Direitos não são favor,{" "}
-          <span className="text-primary">são conquistas</span>
+          Soluções jurídicas com{" "}
+          <span className="text-primary">confiança e precisão</span>
         </h1>
       ),
       subtitle:
@@ -484,7 +484,12 @@ const content = {
         question4: {
           question: "Vocês oferecem serviços de consultoria preventiva?",
           answer:
-            "Sim, oferecemos consultoria preventiva para evitar problemas futuros e garantir conformidade legal.",
+            "Sim, oferecemos consultoria preventiva para evitar problemas futuros e garantir conformidade legal, sobretudo com a devida aplicação do compliance trabalhista.",
+        },
+        question5: {
+          question: "O que é compliance trabalhista?",
+          answer:
+            "Compliance trabalhista é um conjunto de práticas, normas e procedimentos adotados pelas empresas para garantir o cumprimento da legislação trabalhista e minimizar riscos de passivos jurídicos. Mais do que simplesmente seguir a lei, trata-se de estruturar a gestão de pessoas de forma estratégica, prevenindo demandas judiciais e fortalecendo a segurança jurídica da empresa.",
         },
       },
       paragraph: "Clique aqui caso tenha mais dúvidas",
