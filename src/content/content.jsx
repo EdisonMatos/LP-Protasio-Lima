@@ -1,14 +1,14 @@
-import logo from "../assets/imgs/logo/logo.png";
+import logo from "../assets/imgs/logo/logo.webp";
 import heroImg from "../assets/imgs/hero/lawHero.jpg";
 import bgHeroImg from "../assets/imgs/hero/bgHero.webp";
 
-import imgFeatures from "../assets/imgs/features/imgServices.jpg";
+import imgFeatures from "../assets/imgs/features/imgServices.webp";
 import imgDivisor from "../assets/imgs/features/imgDivisor.jpg";
 
-import aboutImg1 from "../assets/imgs/about/aboutImg.jpg";
-import aboutSocialImg from "../assets/imgs/about/aboutSocial.jpg";
+import aboutImg1 from "../assets/imgs/about/aboutImg.webp";
+import aboutSocialImg from "../assets/imgs/about/aboutSocial.webp";
 
-import imgSteps from "../assets/imgs/steps/imgSteps.jpg";
+import imgSteps from "../assets/imgs/steps/imgSteps.webp";
 import personImg from "../assets/imgs/hero/personPhone.png";
 import personImgPhoneImg from "../assets/imgs/hero/personImgPhone.png";
 
