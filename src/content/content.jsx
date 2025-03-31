@@ -9,8 +9,8 @@ import aboutImg1 from "../assets/imgs/about/aboutImg.webp";
 import aboutSocialImg from "../assets/imgs/about/aboutSocial.webp";
 
 import imgSteps from "../assets/imgs/steps/imgSteps.webp";
-import personImg from "../assets/imgs/hero/personPhone.png";
-import personImgPhoneImg from "../assets/imgs/hero/personImgPhone.png";
+import personImg from "../assets/imgs/hero/personPhone.webp";
+import personImgPhoneImg from "../assets/imgs/hero/personImgPhone.webp";
 
 import numbersImgBg from "../assets/imgs/paralaxe/bgParalaxe1.jpg";
 
